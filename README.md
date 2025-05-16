@@ -12,4 +12,4 @@ This repository contains applied data science and machine learning projects usin
 - Python, pandas, sklearn, statsmodels, seaborn
 - Jupyter Notebooks & Streamlit (for dashboards)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/nfl-data-science-portfolio/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eplostins/nfl-data-science-portfolio/)
